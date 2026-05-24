@@ -60,16 +60,11 @@ análise de tendências
 previsões robustas
 
 🚀 Como Executar o Projeto
-1️⃣ Clonar o repositório
-git clone <url-do-repositorio>
 
-2️⃣ Entrar na pasta do projeto
-cd projeto_chuva_recife
-
-3️⃣ Instalar as dependências
+1️⃣ Instalar as dependências
 python -m pip install -r requirements.txt
 
-4️⃣ Executar o projeto
+2️⃣ Executar o projeto
 python -m streamlit run app.py
 
 📊 Visualização
